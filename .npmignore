@@ -1,0 +1,17 @@
+src/
+.github/
+node_modules/
+*.log
+.env
+.DS_Store
+coverage/
+.vscode/
+.idea/
+*.tsbuildinfo
+.npm/
+tsconfig.json
+jest.config.js
+.gitignore
+*.test.ts
+*.spec.ts
+__tests__/
